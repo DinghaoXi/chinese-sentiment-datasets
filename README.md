@@ -6,6 +6,6 @@
 还有一个来自于网络的微博4类情感数据集，太大了就放网盘了链接：https://pan.baidu.com/s/16miEQLCIkfUvM3qFgqWqUA 
 提取码：b27p 
 
-
+emotion_corpus_microblog.txt是来自文章 "Minglei Li, Yunfei Long, Qin Lu, Wenjie Li. 2016. Emotion Corpus Construction Based on Selection from Hashtag. in Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC2016), Portoroz, May 2016"的数据集
 
 严禁商用，供学习参考
